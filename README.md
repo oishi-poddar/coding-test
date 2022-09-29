@@ -19,12 +19,14 @@ The program has been compiled using Python 3.8 and can run on Python 3 and above
 
 An example output is shown below when the directory path is the provided tests folder with the extension ".py" on my machine.
 The first two lines are the names of the files followed by the number of lines in each file.
-
+<p>
 /Users/apple/PycharmProjects/pythonProject/test/test1.py 43<br>
-/Users/apple/PycharmProjects/pythonProject/test/test1.py 10<br>
-
+/Users/apple/PycharmProjects/pythonProject/test/test3.py 10<br>
+/Users/apple/PycharmProjects/pythonProject/test/test2/test4.py 10<br>
+/Users/apple/PycharmProjects/pythonProject/test/test2/test5.py 4<br>
 ========================================================<br>
-Number of files found 2<br>
-Total number of lines 53<br>
-Average lines per file 26.5
+Number of files found 4<br>
+Total number of lines 67<br>
+Average lines per file 16.75<br>
+</p>
 
